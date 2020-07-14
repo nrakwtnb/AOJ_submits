@@ -1,0 +1,34 @@
+
+### C++
+
+g++ a.cpp
+./a.out
+
+### Python
+
+python a.py
+python3 a.py
+
+### Javascript
+
+node a.js
+
+### Haskell
+
+ghc -o hs a.hs
+./hs
+
+### Rust
+
+rustc a.rs
+./a
+
+### Go
+
+go run a.go
+
+### Scala
+
+scalac a.scala
+scala Main
+
